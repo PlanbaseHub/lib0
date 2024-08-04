@@ -481,6 +481,7 @@
     }
   },
   "dependencies": {
+    "expo-standard-web-crypto": "^1.8.1",
     "isomorphic.js": "^0.2.4"
   },
   "devDependencies": {
