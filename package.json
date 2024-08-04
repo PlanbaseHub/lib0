@@ -1,5 +1,5 @@
 {
-  "name": "lib0",
+  "name": "lib0-planbase",
   "version": "0.2.95",
   "description": "",
   "sideEffects": false,
@@ -7,10 +7,6 @@
   "main": "./dist/index.cjs",
   "module": "./index.js",
   "types": "./index.d.ts",
-  "funding": {
-    "type": "GitHub Sponsors ❤",
-    "url": "https://github.com/sponsors/dmonad"
-  },
   "bin": {
     "0gentesthtml": "./bin/gentesthtml.js",
     "0serve": "./bin/0serve.js",
